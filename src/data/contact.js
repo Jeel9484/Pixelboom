@@ -13,7 +13,7 @@ export const contactSection = {
     heading: "Let’s Get Started",
     description: (
       <>
-        Provide us with some details and let's begin <br />
+        Provide us with some details and lets begin <br />
         transforming your business together!
       </>
     ),

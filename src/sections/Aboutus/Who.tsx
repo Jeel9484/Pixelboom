@@ -39,7 +39,7 @@ export default function Who() {
             creative minds who saw the incredible potential of AI to <br />
             revolutionize the way we live and work. Our team is a vibrant mix of
             data scientists, engineers, and AI enthusiasts, all dedicated <br /> to
-            pushing the boundaries of what's possible with artificial
+            pushing the boundaries of whats possible with artificial
             intelligence.
           </p>
         </div>
