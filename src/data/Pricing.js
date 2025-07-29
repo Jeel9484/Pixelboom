@@ -31,7 +31,7 @@ export const pricingPlans = [
     heading: (
       <>
         Best for Growing <br />
-        Teams and{" "}
+        Teams and
         <span className="text-gray-500 font-normal">Agencies</span>
       </>
     ),

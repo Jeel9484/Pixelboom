@@ -1,7 +1,7 @@
 "use client";
 import Image from "next/image";
 import { Check, Phone } from "lucide-react";
-import { pricingPlans } from "@/data/pricing";
+import { pricingPlans } from "@/data/Pricing";
 
 export default function Pricing() {
   return (
