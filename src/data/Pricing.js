@@ -1,4 +1,4 @@
-import { Sparkles, Check, Rocket } from "lucide-react";
+import { Sparkles, Rocket } from "lucide-react";
 
 export const pricingPlans = [
   {

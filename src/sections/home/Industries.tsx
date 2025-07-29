@@ -1,10 +1,7 @@
 "use client";
-import Image from "next/image";
-import Link from "next/link";
-import { cards } from "@/data/cardData";
 
 export default function IndustriesSection() {
-  const common = "flex-shrink-0 relative overflow-hidden min-h-0 ";
+  // const common = "flex-shrink-0 relative overflow-hidden min-h-0 ";
 
   return (
     <section className="bg-white px-4 lg:px-0">

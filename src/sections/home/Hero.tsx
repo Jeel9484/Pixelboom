@@ -3,7 +3,7 @@ import React, { useState } from "react";
 import Image from "next/image";
 import { Clipboard,Compass } from "lucide-react";
 const HeroSection: React.FC = () => {
-  const [activeBtn, setActiveBtn] = useState<"meet" | "services">("meet");
+  // const [activeBtn, setActiveBtn] = useState<"meet" | "services">("meet");
   return (
     <section className="w-full flex flex-col items-center pt-8 pb-16 px-4 bg-white">
       <div className="flex items-center mb-4">
